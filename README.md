@@ -1,16 +1,16 @@
 # series-homework
 עבודת בית 1: JavaScript, JSON ו־Git — פלטפורמת סדרות
 
-  # SeriesHub Homework
 
-    Helper functions and bug fixes for managing TV series data in JSON format.
+Helper functions and bug fixes for managing TV series data in JSON format.
 
-    Running the tests
+## Running Tests
 
-    Run the automated check script from the project folder:
+Run checks from the project folder.
 
-    ```bash
     node check.js
+
+
 
   Questions
 
